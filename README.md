@@ -1,6 +1,19 @@
 <h1 align="center">📊 EDA & Machine Learning Projects – Portfolio by Basavaraj Chakalabbi</h1>
 
 <p align="center">
+    <a href="https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/RedBus-Data-Analysis" title="Go to RedBus Project">
+        <img src="./RedBus-Data-Analysis/RedBus_logo.png" width="200" alt="RedBus Logo">
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+    <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Badge">
+    <img src="https://img.shields.io/badge/EDA-F7DF1E?style=for-the-badge&logo=chartdotjs&logoColor=black" alt="EDA Badge">
+</p>
+
+<p align="center">
   <i>Data analytics, visualization, and predictive modeling using Python, Pandas, and Machine Learning</i><br>
   <b>Portfolio of end-to-end EDA & ML projects</b>
 </p>
@@ -9,7 +22,7 @@
 
 ## 🧠 Overview
 
-This repository showcases my **Data Science & Analytics projects**, including **exploratory data analysis, feature engineering, predictive modeling, and visualization**.  
+This repository showcases my **Data Science & Analytics projects**, including **exploratory data analysis, predictive modeling, and visualization**.  
 
 Each project demonstrates my ability to handle data end-to-end, generate insights, and create reproducible Python code.  
 
@@ -22,7 +35,7 @@ Each project demonstrates my ability to handle data end-to-end, generate insight
 ### 1️⃣ [🚌 RedBus Data Analysis & Predictive Modeling](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/RedBus-Data-Analysis)
 **Overview:**  
 Synthetic dataset simulating bus travel data.  
-Includes **EDA, feature engineering, and predictive modeling** on ticket prices and seat occupancy.
+Includes **EDA, predictive modeling, and visualization** on ticket prices and seat occupancy.
 
 ---
 
@@ -31,7 +44,6 @@ Includes **EDA, feature engineering, and predictive modeling** on ticket prices 
 - Python & Pandas for **data manipulation and cleaning**  
 - Matplotlib & Seaborn for **visualization and insights**  
 - Machine Learning (Regression) for **predictive modeling**  
-- Feature engineering and derived metrics  
 - EDA and storytelling through data  
 
 ---
@@ -52,6 +64,4 @@ Includes **EDA, feature engineering, and predictive modeling** on ticket prices 
   <i>“Turning raw data into actionable insights — one project at a time.”</i>
 </p>
 
-
-## 📁 Repository Structure
 
