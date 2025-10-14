@@ -52,22 +52,6 @@ This project analyzes synthetic bus travel data across Indian cities. The object
 
 ---
 
-## 📁 Repository Structure
-
-EDA-and-Machine-Learning-Projects
-│
-├── 📁 RedBus-Data-Analysis
-│ ├── RedBus_Data_Analysis.ipynb
-│ ├── dataset_redbus.csv
-│ └── README.md
-│
-├── 📁 Future-Project-1
-│ └── README.md
-│
-├── 📁 Future-Project-2
-│ └── README.md
-│
-└── 📘 Main README.md
 
 ---
 
