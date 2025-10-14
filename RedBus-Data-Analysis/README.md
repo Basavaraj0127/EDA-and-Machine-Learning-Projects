@@ -20,15 +20,21 @@
 
 ---
 
-## 📘 Overview
+## 📘 Problem Statement
 
-This project demonstrates a complete **data science workflow** on bus travel data, including:
+RedBus is a bus ticket booking platform that connects passengers with bus operators across Indian cities.  
+The main objectives of this project are:  
 
-- **Exploratory Data Analysis (EDA)** to uncover travel patterns, pricing, and occupancy trends.  
-- **Feature engineering** to create derived variables such as revenue per trip, seat occupancy, and weekend indicators.  
-- **Predictive modeling** for ticket price and seat occupancy.  
+1. **Analyze travel patterns:** Identify popular routes, peak travel days, and passenger behavior.  
+2. **Predict ticket prices:** Estimate fair ticket prices based on distance, bus type, operator, and other features.  
+3. **Forecast seat occupancy:** Predict how full a bus is likely to be for a given route and schedule, aiding fleet planning.  
+4. **Extract actionable insights:** Provide operational and pricing recommendations for bus operators.  
 
-> **Note:** The dataset is **synthetically created** to mimic real-world bus travel scenarios. It is intended for demonstration, analysis, and predictive modeling purposes only.
+**Target Variables for Predictive Modeling:**  
+- `Ticket_Price_INR` – Predict the price of the ticket.  
+- `Seat_Occupancy_%` – Predict the expected occupancy percentage of the bus.  
+
+> **Note:** The dataset is **synthetically created** to mimic real-world bus travel scenarios for demonstration purposes.
 
 ---
 
@@ -111,9 +117,7 @@ Key insights from the EDA include:
 
 ## 📂 Repository Structure
 
-
 📁 RedBus-Data-Analysis
-
 
 ├── RedBus_Data_Analysis.ipynb
 
@@ -137,4 +141,4 @@ Key insights from the EDA include:
 
 **Basavaraj Chakalabbi**  
 📎 [GitHub Profile](https://github.com/Basavaraj0127)  
-📂 [Project Repository](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/RedB
+📂 [Project Repository](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/ma
