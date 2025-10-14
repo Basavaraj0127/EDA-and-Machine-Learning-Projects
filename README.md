@@ -24,17 +24,17 @@ This repository showcases my **Data Science & Analytics projects**, including **
 
 ## 🗂️ Projects
 
-### 1️⃣ [🚌 RedBus Data Analysis & Predictive Modeling](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/RedBus-Data-Analysis)
+### 1️⃣ [🚌 RedBus Data Analysis & Predictive Modeling](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/RedBus-Data-Analysis)  
 **Overview:**  
-Synthetic dataset simulating bus travel data.  
-Includes **EDA, predictive modeling, and visualization** on ticket prices and seat occupancy.  
+This project analyzes synthetic bus travel data across Indian cities. The objective is to explore travel patterns, predict seat occupancy, and estimate ticket prices.  
 
-**Dataset Description:**  
-- Contains **5,000 records** of bus trips across various Indian cities.  
-- Columns include source, destination, distance, departure & arrival times, bus type, operator, ticket price, ratings, and seat occupancy.  
-- Includes **derived features** such as duration in hours, price per km, and seat occupancy percentage for better analysis.  
+**What was done:**  
+- **Exploratory Data Analysis (EDA):** Cleaned data, handled missing values, and derived features such as duration in hours, price per km, and seat occupancy %.  
+- **Visualization:** Generated plots to analyze distributions of ticket prices, occupancy rates, and top 10 most popular routes.  
+- **Predictive Modeling:** Built regression models to predict ticket prices and seat occupancy percentages, achieving high accuracy (R² ~ 0.99 for seat occupancy).  
+- **Insights:** Identified top routes, occupancy trends, and pricing patterns to simulate realistic bus travel insights.  
 
-> **Note:** The dataset used in the RedBus project is **synthetically created for demonstration purposes**.
+> **Note:** The dataset used in this project is **synthetically created for demonstration purposes**.  
 
 ### 2️⃣ Future Project
 
@@ -54,3 +54,33 @@ Includes **EDA, predictive modeling, and visualization** on ticket prices and se
 
 ## 📁 Repository Structure
 
+EDA-and-Machine-Learning-Projects
+│
+├── 📁 RedBus-Data-Analysis
+│ ├── RedBus_Data_Analysis.ipynb
+│ ├── dataset_redbus.csv
+│ └── README.md
+│
+├── 📁 Future-Project-1
+│ └── README.md
+│
+├── 📁 Future-Project-2
+│ └── README.md
+│
+└── 📘 Main README.md
+
+
+---
+
+## ✨ Author
+
+**Basavaraj Chakalabbi**  
+📧 basavaraddi0127@gmail.com  
+📞 +91 7676035429  
+🔗 [GitHub](https://github.com/Basavaraj0127) | [LinkedIn](https://www.linkedin.com/in/basavaraj-chakalabbi)
+
+---
+
+<p align="center">
+  <i>“Turning raw data into actionable insights — one project at a time.”</i>
+</p>
