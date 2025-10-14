@@ -1,12 +1,6 @@
 <h1 align="center">📊 EDA & Machine Learning Projects – Portfolio by Basavaraj Chakalabbi</h1>
 
 <p align="center">
-    <a href="https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/RedBus-Data-Analysis" title="Go to RedBus Project">
-        <img src="./RedBus-Data-Analysis/RedBus_logo.png" width="200" alt="RedBus Logo">
-    </a>
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
     <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Badge">
@@ -26,7 +20,7 @@ This repository showcases my **Data Science & Analytics projects**, including **
 
 Each project demonstrates my ability to handle data end-to-end, generate insights, and create reproducible Python code.  
 
-> **Note:** The dataset used in this project is **synthetically created** for demonstration purposes.
+> **Note:** The dataset used in the RedBus project is **synthetically created** for demonstration purposes.
 
 ---
 
@@ -63,5 +57,4 @@ Includes **EDA, predictive modeling, and visualization** on ticket prices and se
 <p align="center">
   <i>“Turning raw data into actionable insights — one project at a time.”</i>
 </p>
-
 
