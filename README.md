@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/RedBus_logo.svg" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/RedBus_logo.svg" width="200" alt="RedBus Logo">
 </p>
 
 # RedBus Data Analysis & Predictive Modeling
@@ -60,13 +60,9 @@ The EDA includes:
 - Seat occupancy trends by day of the week
 - Correlation between key features
 
-These analyses provide insights into **route demand, pricing patterns, bus performance, and passenger occupancy**.
-
 ---
 
 ## Feature Engineering
-Additional features created:
-
 - `Revenue_per_Trip` – `(Total_Seats - Seats_Available) * Ticket_Price_INR`  
 - `Is_Weekend` – Indicator for weekend trips  
 - `Bus_Category` – Categorized as Premium or Economy  
@@ -75,36 +71,31 @@ Additional features created:
 ---
 
 ## Predictive Modeling
+- **Ticket Price Prediction:** MAE ≈ ₹222, R² ≈ 0.93  
+- **Seat Occupancy Prediction:** MAE ≈ 2.51%, R² ≈ 0.99  
 
-### Ticket Price Prediction
-- Model: Random Forest Regressor  
-- MAE ≈ ₹222, R² ≈ 0.93  
-- Predicts ticket prices based on distance, duration, bus type, day, and operator
-
-### Seat Occupancy Prediction
-- Model: Random Forest Regressor  
-- MAE ≈ 2.51%, R² ≈ 0.99  
-- Forecasts passenger demand for route planning and fleet optimization
-
-> Note: Perfectly accurate results are due to the **synthetic nature of the dataset**, which reduces real-world variability. Noise was added to make predictions more realistic.
+> Note: Perfectly accurate results are due to the **synthetic nature of the dataset**, which reduces real-world variability.
 
 ---
 
 ## Key Insights
 - High-demand routes: **Bangalore → Chennai**, **Mumbai → Pune**  
 - Weekend travel shows higher occupancy  
-- Premium buses have higher ticket prices and higher revenue per trip  
-- Predictive models enable **pricing strategy, fleet optimization, and demand forecasting**
+- Premium buses have higher ticket prices and revenue  
+- Predictive models enable **pricing strategy and fleet optimization**
 
 ---
 
 ## Tools & Libraries
 - Python 3.x  
-- Pandas, NumPy for data manipulation  
-- Matplotlib, Seaborn for visualization  
-- Scikit-learn for predictive modeling  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
 
 ---
 
-## GitHub Repository
-[Click here to access the RedBus project](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/RedBus-Data-Analysis)
+## Author
+[Basavaraj Chakalabbi](https://github.com/Basavaraj0127)  
+
+---
+
