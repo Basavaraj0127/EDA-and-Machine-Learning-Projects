@@ -28,6 +28,12 @@ This repository showcases my **Data Science & Analytics projects**, including **
 **Overview:**  
 Synthetic dataset simulating bus travel data.  
 Includes **EDA, predictive modeling, and visualization** on ticket prices and seat occupancy.  
+
+**Dataset Description:**  
+- Contains **5,000 records** of bus trips across various Indian cities.  
+- Columns include source, destination, distance, departure & arrival times, bus type, operator, ticket price, ratings, and seat occupancy.  
+- Includes **derived features** such as duration in hours, price per km, and seat occupancy percentage for better analysis.  
+
 > **Note:** The dataset used in the RedBus project is **synthetically created for demonstration purposes**.
 
 ### 2️⃣ Future Project
