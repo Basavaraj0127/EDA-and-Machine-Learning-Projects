@@ -1,6 +1,7 @@
 <h1 align="center">🍽️ Zomato Bengaluru Data Analysis</h1>
 
-<img src="ZOMATO BENGALURU DATA ANALYSIS/plots/banner.png" width="300" alt="Zomato Bengaluru Banner">
+<img src="https://raw.githubusercontent.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/main/ZOMATO%20BENGALURU%20DATA%20ANALYSIS/plots/banner.png" width="300" alt="Zomato Bengaluru Banner">
+
 
 
 <p align="center">
