@@ -27,7 +27,7 @@ This project explores Bengaluru’s restaurant ecosystem using Zomato data. Thro
 ## 📈 Analysis & Insights
 
 ### 1️⃣ Geographic Distribution of Restaurants in Bengaluru
-![Geographic Distribution](https://github.com/Basavaraj0127/ZOMATO-BENGALURU-DATA-ANALYSIS/blob/main/ZOMATO%20BENGALURU%20DATA%20ANALYSIS/plots/Geographic%20Distribution%20of%20Restaurants%20in%20Bengaluru.png?raw=true)
+https://github.com/Basavaraj0127/ZOMATO-BENGALURU-DATA-ANALYSIS/blob/main/ZOMATO%20BENGALURU%20DATA%20ANALYSIS/plots/Geographic%20Distribution%20of%20Restaurants%20in%20Bengaluru.png?raw=true
 
 - Top 5 locations (Koramangala, Indiranagar, etc.) have dense restaurant presence.
 - Bottom 5 areas show market gaps — ideal for new entrants.
