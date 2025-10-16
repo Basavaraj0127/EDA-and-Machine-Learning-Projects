@@ -1,10 +1,7 @@
 <h1 align="center">🍽️ Zomato Bengaluru Data Analysis</h1>
 
-<p align="center">
-    <a href="https://github.com/Basavaraj0127/Zomato-Bengaluru-Data-Analysis" title="Go to Project Repository">
-        <img src="./banner.png" width="300" alt="Zomato Bengaluru Banner">
-    </a>
-</p>
+<img src="ZOMATO BENGALURU DATA ANALYSIS/plots/banner.png" width="300" alt="Zomato Bengaluru Banner">
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
