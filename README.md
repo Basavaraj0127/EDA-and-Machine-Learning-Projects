@@ -71,7 +71,6 @@ This project explores Bengaluru’s restaurant ecosystem using Zomato data. The 
 📧 basavaraddi0127@gmail.com  
 📞 +91 7676035429  
 🔗 [GitHub](https://github.com/Basavaraj0127) | [LinkedIn](https://www.linkedin.com/in/basavaraj-chakalabbi)  
-📂 **Zomato Bengaluru Data Analysis Files:** [Link](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/ZOMATO%20BENGALURU%20DATA%20ANALYSIS)
 
 ---
 
