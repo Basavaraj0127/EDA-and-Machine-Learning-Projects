@@ -36,9 +36,22 @@ This project analyzes synthetic bus travel data across Indian cities. The object
 
 > **Note:** The dataset used in this project is **synthetically created for demonstration purposes**.  
 
-### 2️⃣ Future Project
+### 2️⃣ [🍽️ Zomato Bengaluru Data Analysis](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/ZOMATO%20BENGALURU%20DATA%20ANALYSIS)  
+**Overview:**  
+This project explores Bengaluru’s restaurant ecosystem using Zomato data. The goal is to analyze restaurant performance, customer ratings, cuisine preferences, and pricing to provide actionable insights for customers and new entrants.  
 
-### 3️⃣ Future Project
+**What was done:**  
+- **Exploratory Data Analysis (EDA):** Cleaned and prepared the dataset, handled missing values, and standardized columns for analysis.  
+- **Visualization:** Created graphs for geographic distribution, restaurant types, cost vs rating, cuisine popularity, and top-rated restaurants.  
+- **Insights:**  
+  - Casual Dining dominates Bengaluru, while Bars and Dessert Parlors serve niche audiences.  
+  - Popular dishes include Biryani, Pasta, and Burgers.  
+  - Affordable restaurants (₹200–₹1000 for two) often achieve high ratings.  
+  - Table booking and online ordering impact ratings and customer satisfaction.  
+  - Top-rated restaurants vary by locality — local favorites dominate each area.  
+- **Recommendations:** Identified under-served locations for new restaurants, popular cuisines to focus on, and value-for-money metrics for maximizing customer satisfaction.  
+
+> **Note:** All visualizations and insights are derived from Zomato Bengaluru restaurant dataset.
 
 ---
 
@@ -52,15 +65,13 @@ This project analyzes synthetic bus travel data across Indian cities. The object
 
 ---
 
-
----
-
 ## ✨ Author
 
 **Basavaraj Chakalabbi**  
 📧 basavaraddi0127@gmail.com  
 📞 +91 7676035429  
-🔗 [GitHub](https://github.com/Basavaraj0127) | [LinkedIn](https://www.linkedin.com/in/basavaraj-chakalabbi)
+🔗 [GitHub](https://github.com/Basavaraj0127) | [LinkedIn](https://www.linkedin.com/in/basavaraj-chakalabbi)  
+📂 **Zomato Bengaluru Data Analysis Files:** [Link](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/ZOMATO%20BENGALURU%20DATA%20ANALYSIS)
 
 ---
 
