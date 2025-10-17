@@ -1,5 +1,8 @@
 <h1 align="center">💳 Credit Card Fraud Detection using Machine Learning</h1>
 
+<p align="center">
+  <img src="banner1.png" alt="Credit Card Fraud Detection Banner" width="800">
+</p>
 
 
 <p align="center">
@@ -81,7 +84,7 @@ The goal is to develop a robust classification model that accurately identifies 
 
 ## 💾 Project Files
 
-- 📓 [View Jupyter Notebook](./Credit%20Card%20Fraud%20Detection.ipynb)  
+- 📁 [View Complete Project Folder](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/Credit%20Card%20Fraud%20Detection)  
 - 📂 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
@@ -112,4 +115,3 @@ If you found this project insightful, consider giving it a ⭐ on [GitHub](https
 Your support motivates me to build and share more data-driven projects 🚀
 
 ---
-
