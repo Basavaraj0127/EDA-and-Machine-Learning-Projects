@@ -63,3 +63,18 @@ Clone this repository and install dependencies:
 git clone https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects.git
 cd "🧮 RFM Analysis – Customer Segmentation Using Python"
 pip install -r requirements.txt
+
+👨‍💻 Author
+
+Basavaraj
+Data Analyst | Business Insights | RFM Segmentation
+
+🔗 GitHub: Basavaraj0127
+
+📁 Project: RFM Analysis – Customer Segmentation Using Python
+
+📄 License
+
+This project is licensed under the MIT License — feel free to use and modify.
+
+⭐ If you found this project helpful, don’t forget to star it on GitHub!
