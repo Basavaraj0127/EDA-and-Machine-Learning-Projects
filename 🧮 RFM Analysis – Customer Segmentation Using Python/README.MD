@@ -1,5 +1,7 @@
 # 🧮 RFM Analysis — Customer Segmentation Using Python
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Repository-181717?logo=github&logoColor=white)](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/%F0%9F%A7%AE%20RFM%20Analysis%20%E2%80%93%20Customer%20Segmentation%20Using%20Python)
+
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white)
@@ -18,6 +20,9 @@
 This project implements **RFM (Recency–Frequency–Monetary) Analysis** — a proven method used by marketing and analytics teams to evaluate customer value and predict engagement.  
 
 It identifies different customer segments (like **Champions**, **Loyal Customers**, or **At-Risk**) using transaction data and visualizes these insights for better decision-making.  
+
+🔗 **View Project on GitHub:**  
+[Basavaraj0127 / RFM Analysis – Customer Segmentation Using Python](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/%F0%9F%A7%AE%20RFM%20Analysis%20%E2%80%93%20Customer%20Segmentation%20Using%20Python)
 
 Built using **Python**, **Pandas**, and **Seaborn**, this notebook is ideal for analysts and businesses looking to **enhance customer retention and campaign targeting** through data-driven segmentation.
 
@@ -55,6 +60,6 @@ Each customer gets an **RFM score**, which can then be used for segmentation, ta
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/RFM-Analysis.git
-cd RFM-Analysis
+git clone https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects.git
+cd "🧮 RFM Analysis – Customer Segmentation Using Python"
 pip install -r requirements.txt
