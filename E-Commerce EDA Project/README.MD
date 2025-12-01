@@ -1,7 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/WK0aYtM.png" alt="E-Commerce EDA Banner" width="100%">
+  <img src="https://www.seekpng.com/png/full/428-4289671_ecommerce-logo-png.png" 
+       alt="E-Commerce EDA Banner" width="100%">
 </p>
+
 
 # 📦 E-Commerce Data Analysis (EDA)  
 ### 🔍 Comprehensive Sales, Profit & Customer Insights using Python
