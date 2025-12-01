@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/5M5vr0d/E-Commerce-EDA-Banner.png" alt="E-Commerce EDA Banner" width="100%">
+  <img src="https://i.imgur.com/WK0aYtM.png" alt="E-Commerce EDA Banner" width="100%">
 </p>
 
 # 📦 E-Commerce Data Analysis (EDA)  
