@@ -119,3 +119,22 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook
 
+
+---
+
+## 👤 Author  
+
+**Basavaraj Chakalabbi**  
+Data Analyst & Machine Learning Enthusiast  
+📍 India  
+
+🔗 **GitHub:** https://github.com/Basavaraj0127  
+🔗 **LinkedIn:** https://www.linkedin.com/in/basavaraj-chakalabbi-aa560a388  
+
+---
+
+### ⭐ Support  
+If you like this project, don’t forget to star ⭐ the repository!  
+Your support motivates more high-quality analytics projects.
+
+
