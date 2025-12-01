@@ -1,52 +1,57 @@
-<!-- Optional Banner: put a banner image named banner.png in repo or link to external URL -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="./banner.png" alt="Project Banner" width="100%" />
+  <img src="https://i.ibb.co/5M5vr0d/E-Commerce-EDA-Banner.png" alt="E-Commerce EDA Banner" width="100%">
 </p>
 
 # 📦 E-Commerce Data Analysis (EDA)  
 ### 🔍 Comprehensive Sales, Profit & Customer Insights using Python
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)]()  
-[![Pandas](https://img.shields.io/badge/Pandas-1.5-green?logo=pandas&logoColor=white)]()  
-[![NumPy](https://img.shields.io/badge/NumPy-1.24-yellow?logo=numpy&logoColor=black)]()  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange?logo=matplotlib&logoColor=white)]()  
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.13-purple?logo=seaborn&logoColor=white)]()  
-[![Plotly](https://img.shields.io/badge/Plotly-5.14-blue?logo=plotly&logoColor=white)]()  
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)]()  
+<!-- Skills Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-1.5-green?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1.24-yellow?logo=numpy&logoColor=black">
+  <img src="https://img.shields.io/badge/Matplotlib-3.7-orange?logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-0.13-purple?logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-5.14-blue?logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white">
+</p>
 
-This project performs an in-depth **Exploratory Data Analysis (EDA)** on a real-world **E-Commerce Superstore Dataset**.  
-The goal is to uncover **sales trends**, **profit patterns**, **customer behavior**, and **regional performance** to support data-driven decisions.
+This project performs an in-depth **Exploratory Data Analysis (EDA)** on the **Superstore E-Commerce Dataset** to uncover trends in  
+**sales, profit, customer behavior, regional performance, and product categories.**
 
 ---
 
 ## 📁 Project Repository  
-[E-Commerce EDA Project on GitHub](https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/E-Commerce%20EDA%20Project)
+👉 **GitHub Link:**  
+https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects/tree/main/E-Commerce%20EDA%20Project
 
 ---
 
 ## 📁 Project Overview  
 This analysis explores:
 
-- Regional, state & city-wise sales and profit performance  
-- Category & sub-category profitability  
-- Monthly & yearly sales trends  
-- Customer segment performance  
-- Impact of shipping mode & order priority  
+- Regional, state & city-wise sales and profit  
+- High-performing & loss-making categories  
+- Monthly & yearly business trends  
+- Customer segment revenue contribution  
+- Shipping mode & order priority performance  
 
-Tools used: **Python, Pandas, NumPy, Seaborn/Matplotlib, Plotly, Jupyter Notebook**
+Tools used: **Python, Pandas, NumPy, Plotly, Matplotlib, Seaborn, Jupyter Notebook**
 
 ---
 
 ## 🗂 Dataset Information  
 **File:** `Superstore Dataset.csv`  
-**Key Columns:**  
-- Order Details → Order ID, Order Date, Ship Date, Ship Mode  
-- Customer Info → Customer Name, Segment  
-- Product Data → Category, Sub-Category, Product Name  
-- Geography → Country, State, City, Region  
-- Metrics → Sales, Quantity, Discount, Profit  
 
-**Feature Engineering:**  
+**Contains:**  
+- Order: Order Date, Ship Date, Ship Mode  
+- Customer: Customer Name, Segment  
+- Product: Category, Sub-Category, Product Name  
+- Geography: Country, State, City, Region  
+- Metrics: Sales, Quantity, Discount, Profit  
+
+### Feature Engineering  
 - `Order_Year`  
 - `Order_Month`  
 - `Sales_to_Profit_Ratio`
@@ -56,45 +61,43 @@ Tools used: **Python, Pandas, NumPy, Seaborn/Matplotlib, Plotly, Jupyter Noteboo
 ## 📊 Analysis Performed  
 
 ### 1️⃣ Monthly Sales & Profit Trend  
-- Identified peak business months  
-- Found months with high sales but low profit due to discounting  
+- Identified best & worst-performing months  
+- Found high-sales but low-profit months due to discounting  
 
-### 2️⃣ Year-over-Year Growth  
-- Sales increased YoY  
-- Profit fluctuated due to rising costs/discounts  
+### 2️⃣ Year-over-Year Trends  
+- Revenue rising overall  
+- Profit fluctuating due to high discounts  
 
-### 3️⃣ Regional, State & City Insights  
+### 3️⃣ Regional & Geographic Insights  
 - **Top regions:** West & East  
 - **Top states:** California, Washington, New York  
-- Certain cities showed repeated losses  
+- Identified loss-heavy cities  
 
 ### 4️⃣ Category & Sub-category Performance  
-- Best Category → **Technology**  
-- Worst Sub-category → **Tables (negative profit)**  
+- Best: **Technology → Phones & Accessories**  
+- Worst: **Tables (negative profit)**  
 
 ### 5️⃣ Customer Segment Analysis  
-- Largest revenue segment → **Consumer**  
-- Corporate also provides stable profit  
+- Consumer segment generates the most revenue  
+- Corporate segment stable & predictable  
 
-### 6️⃣ Shipping & Priority Insights  
-- Standard Class = most used shipping mode  
-- Faster modes cost more but boost satisfaction  
+### 6️⃣ Shipping & Order Priority  
+- Standard Class is most used  
+- Same-day & first-class cost more but improve satisfaction  
 
 ### 7️⃣ Sales-to-Profit Ratio  
-Helps detect:  
-- High-profit low-sales items  
-- High-sales low-margin items  
+Used to detect:  
+- High-volume, low-margin items  
+- Low-volume, high-margin products  
 
 ---
 
-## 🧾 Key Business Insights
-
-✔ **Top Categories:** Technology (Phones, Accessories)  
-✔ **Worst Performer:** Tables → High sales, negative profit  
-✔ **Top Regions:** West, East  
-✔ **Growth:** Sales increasing yearly  
-✔ **Recommendation:** Revisit discounting & supply chain efficiency  
-✔ **Customer Insight:** Consumers = largest, most profitable segment  
+## 🧾 Key Insights  
+✔ Technology category drives maximum profit  
+✔ Tables sub-category causes consistent losses  
+✔ West & East regions dominate revenue  
+✔ Customers in Consumer segment contribute most  
+✔ Freight & discount strategies need optimization  
 
 ---
 
@@ -102,7 +105,9 @@ Helps detect:
 - Python  
 - Pandas  
 - NumPy  
-- Matplotlib / Seaborn / Plotly  
+- Matplotlib  
+- Seaborn  
+- Plotly  
 - Jupyter Notebook  
 
 ---
@@ -111,7 +116,10 @@ Helps detect:
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Basavaraj0127/EDA-and-Machine-Learning-Projects.git
+
+# Navigate to project folder
+cd E-Commerce\ EDA\ Project
 
 # Install dependencies
 pip install -r requirements.txt
@@ -119,22 +127,17 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook
 
+👤 Author
 
----
+Basavaraj Chakalabbi
+Data Analyst & Machine Learning Enthusiast
+📍 India
 
-## 👤 Author  
+🔗 GitHub: https://github.com/Basavaraj0127
 
-**Basavaraj Chakalabbi**  
-Data Analyst & Machine Learning Enthusiast  
-📍 India  
+🔗 LinkedIn: https://www.linkedin.com/in/basavaraj-chakalabbi-aa560a388
 
-🔗 **GitHub:** https://github.com/Basavaraj0127  
-🔗 **LinkedIn:** https://www.linkedin.com/in/basavaraj-chakalabbi-aa560a388  
+⭐ Support
 
----
-
-### ⭐ Support  
-If you like this project, don’t forget to star ⭐ the repository!  
+If you like this project, don’t forget to star ⭐ the repository!
 Your support motivates more high-quality analytics projects.
-
-
